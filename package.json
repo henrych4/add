@@ -15,7 +15,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "name": "learn-ts-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "acorn": "^8.14.0",
     "acorn-walk": "^8.3.4",
